@@ -12,7 +12,7 @@ permalink: /
 ---
 ###### 自己紹介ページ　　
 
-###石田　隆之介  
+### 石田　隆之介  
 
 - **趣味**
   - TRPG
@@ -24,7 +24,7 @@ permalink: /
 
   - **音ゲー**
     - 得意ではないがやるのは好き
-    - ![image](/otamesi/
+    - ![image](/otamesi/assets/images/t.png/)
 
 # 見出し1
 ## 見出し2
