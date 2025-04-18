@@ -10,21 +10,29 @@ permalink: /
 
 
 ---
-###### 自己紹介ページ　　
+###### 好きなものを並べるページ  
 
-### 石田　隆之介  
 
 - **趣味**
   - TRPG
     - プレイするのもリプレイを見るのも好き
     - 最近はシナリオを自分で作ってみたいとも考えてる
     - おすすめ卓
-      - [Tタリオン](https://www.youtube.com/@Ttarion000)
-      - [秋葉の部屋]()
+      - [Tタリオン](https://www.youtube.com/@Ttarion000) ![image](/otamesi/assets/images/
+      - [秋葉の部屋](https://www.youtube.com/@akiha_1124)
 
   - **音ゲー**
     - 得意ではないがやるのは好き
-    - ![image](/otamesi/assets/images/t.png/)
+    - プロセカ、太鼓の達人、Muse dashなどなど
+    - ![image](/otamesi/assets/images/t.png/) ![image](/otamesi/assets/images/p.png)
+
+    - 箱推し　**25時、ナイトコードで。**
+    - おすすめしたい楽曲
+      -  ###### t+pazoliteの曲はいいぞぉ
+         - [！！！カオスタイム！！！](https://www.youtube.com/watch?v=ogZ23qZKs2w)
+         - []
+
+  - 
 
 # 見出し1
 ## 見出し2
